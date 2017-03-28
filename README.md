@@ -10,8 +10,11 @@ A focus is given to Probability and Statistics problems.
 
 ## Questionnaires (examples)
 
-1. See [Questionnaire 1 file]()
+### Questionnaire 1
 
+See [Questionnaire 1 file](https://github.com/cpmech/JuliaLangIntro/blob/master/docs/CIVL2530Questionnaire1.pdf)
+
+The solutions are available in the *q1* directory.
 
 ## License
 
