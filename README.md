@@ -16,6 +16,12 @@ See [Questionnaire 1 file](https://github.com/cpmech/JuliaLangIntro/blob/master/
 
 The solutions are available in the *q1* directory.
 
+### Questionnaire 2
+
+See [Questionnaire 2 file](https://github.com/cpmech/JuliaLangIntro/blob/master/docs/CIVL2530Questionnaire2.pdf)
+
+The solutions are available in the *q2* directory.
+
 ## License
 
 Unless otherwise noted, the source files here are distributed under the BSD-style license found in the LICENSE file.
