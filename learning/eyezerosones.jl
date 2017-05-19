@@ -1,0 +1,5 @@
+println(eye(3))
+println("vector = ", zeros(3))
+println("matrix = ", zeros((3,3)))
+println("vector = ", ones(3))
+println("matrix = ", ones((3,3)))
